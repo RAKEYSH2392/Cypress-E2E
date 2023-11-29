@@ -23,6 +23,7 @@
     "cypress-mochawesome-reporter": "^3.7.0",
     "json-loader": "^0.5.7",
     "mochawesome": "^7.1.3"
+    
   }
   
 }
